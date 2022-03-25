@@ -1,1 +1,1 @@
-# diabetes-himaja-app
+# diabetes_prediction
