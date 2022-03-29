@@ -14,4 +14,3 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 # Project Deployment URL:
 https://diabetes-predictor-himaja-app.herokuapp.com/
 
-
