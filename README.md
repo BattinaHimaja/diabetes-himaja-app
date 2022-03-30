@@ -11,7 +11,12 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 => Select main branch by default.
 => Then the project will be deployed and we will get the link in the overview.
 
+
+![image](https://user-images.githubusercontent.com/68233251/160892647-88bc3dd9-7027-450b-8672-66de4d663496.png)
+
+
 # Project Deployment URL:
 https://himaja276.azurewebsites.net
-<img src="http://url/image.png" height="60" width="60" >
+ 
+ 
 
