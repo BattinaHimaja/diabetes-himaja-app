@@ -8,7 +8,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 => Go to https://portal.azure.com/#home.
 => Create a free account and then select App Service and create a web app.
 => To deploy we need to connect to github and load the code from the repository.
-=> Select main branch by default
+=> Select main branch by default.
 => Then the project will be deployed and we will get the link in the overview.
 
 # Project Deployment URL:
