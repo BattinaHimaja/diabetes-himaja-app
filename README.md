@@ -14,7 +14,8 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 ![image](https://user-images.githubusercontent.com/68233251/160892647-88bc3dd9-7027-450b-8672-66de4d663496.png)
 <br>
-<img src="https://imgur.com/a/ULdAV8L" width="50%" height="50%">
+
+<img src="https://i.imgur.com/5Jsc2CO.png" width="50%" height="50%">
 
 # Project Deployment URL:
 https://himaja276.azurewebsites.net
