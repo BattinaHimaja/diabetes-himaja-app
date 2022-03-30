@@ -13,8 +13,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 
 ![image](https://user-images.githubusercontent.com/68233251/160892647-88bc3dd9-7027-450b-8672-66de4d663496.png)
-<img src="https://imgur.com/5Jsc2CO">
-
+<img src="https://imgur.com/a/ULdAV8L">
 
 
 # Project Deployment URL:
