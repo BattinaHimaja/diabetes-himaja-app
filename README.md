@@ -5,11 +5,11 @@ Diabetes, is a group of metabolic disorders in which there are high blood sugar 
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
 # Project Deployment Steps
-=> Go to https://portal.azure.com/#home.
-=> Create a free account and then select App Service and create a web app.
-=> To deploy we need to connect to github and load the code from the repository.
-=> Select main branch by default.
-=> Then the project will be deployed and we will get the link in the overview.
+=> Go to https://portal.azure.com/#home.<br>
+=> Create a free account and then select App Service and create a web app.<br>
+=> To deploy we need to connect to github and load the code from the repository.<br>
+=> Select main branch by default.<br>
+=> Then the project will be deployed and we will get the link in the overview.<br>
 
 
 ![image](https://user-images.githubusercontent.com/68233251/160892647-88bc3dd9-7027-450b-8672-66de4d663496.png)
