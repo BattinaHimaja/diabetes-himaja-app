@@ -21,7 +21,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 <br>
 <img src="https://i.imgur.com/ZQZ61vK.png" width="1005" height="100%">
 <br><br>
-<img src="https://i.imgur.com/jmO8c38.png" width="1005" height="100%">
+<img src="https://i.imgur.com/CEewL36.png" width="1005" height="100%">
 
 # Project Deployment URL:
 https://himaja276.azurewebsites.net
